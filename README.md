@@ -77,6 +77,6 @@ Core aggregations: Net Revenue, Gross Revenue, Discount, Margin, Quantity
 ## 📂 Repository Structure
 
 ```
-├── V1_-_estrela.pbix      # Power BI report file
+├── retail_sales.pbix      # Power BI report file
 └── README.md
 ```
